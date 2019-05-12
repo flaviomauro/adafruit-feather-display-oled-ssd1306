@@ -2,7 +2,7 @@
  *******************************************************************************
    Description:
    Sample code to show text and draw images in SSD1306 Display.
-   GitHub: https://github.com/flaviomauro/Adafruit_Feather_Display_OLED_SSD1306
+   GitHub: https://github.com/flaviomauro/adafruit-feather-display-oled-ssd1306
  *******************************************************************************
    Item list:
 
